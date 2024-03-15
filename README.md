@@ -3,14 +3,14 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
-  - [Incarceration Rates Of Black Prisoners In The U.S]()
+  - [Incarceration Rates Of Black Prisoners In The U.S](https://github.com/Jalen-A/Incarceration-Rates-Of-Prisoners-In-The-U.S)
 
 - <b>Excel</b>
   - [Social Determinants In Georgia](https://github.com/Jalen-A/Social-determinants-of-Georgia-analysis)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Soon To Come YT Channel]()
 
 <h2> 🤳 Connect with me:</h2>
 
