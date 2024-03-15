@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
-  - [Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Incarceration Rates Of Black Prisoners In The U.S]()
 
 - <b>Excel</b>
--[Social Determinants in Georgia]()
+  - [Social Determinants In Georgia](https://github.com/Jalen-A/Social-determinants-of-Georgia-analysis)
 
 <h2>📺 Popular YouTube Videos</h2>
 
