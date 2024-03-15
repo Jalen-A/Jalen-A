@@ -5,7 +5,8 @@
 - <b>Python</b>
   - [Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-
+- <b>Excel</b>
+-[Social Determinants in Georgia]()
 
 <h2>📺 Popular YouTube Videos</h2>
 
