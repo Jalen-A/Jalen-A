@@ -8,7 +8,7 @@
 - <b>Excel</b>
   - [Social Determinants In Georgia](https://github.com/Jalen-A/Social-determinants-of-Georgia-analysis)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Youtube </h2>
 
 - [Soon To Come YT Channel]()
 
